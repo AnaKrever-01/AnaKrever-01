@@ -4,7 +4,7 @@ Meu nome é Ana Krever
 
 - Estou studing na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
-- I use esse espaço para minha organização e comportilhamento dos meus projetos desenvolvidos
+- I use esse espaço para minha organização e share dos meus projetos desenvolvidos
 
   ### Voce pode entrar em contato comigo 📭
 
